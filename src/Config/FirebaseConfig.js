@@ -1,5 +1,5 @@
 export default {
-    apiKey: "AIzaSyA0Ssv2uLitM-Zu--dnEisAxwxevO_a4sM",
+    apiKey: "APIKEY",
     authDomain: "react-git-app-2f349.firebaseapp.com",
     databaseURL: "https://react-git-app-2f349.firebaseio.com",
     projectId: "react-git-app-2f349",
